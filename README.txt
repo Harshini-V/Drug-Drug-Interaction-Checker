@@ -1,5 +1,3 @@
-Each respective folder in CODE has its own README, relaying the exact same information here.
-
 GENERAL DATA PROCESSING:
 We had 3 datasets we pulled from: DrugBank, DDInter, and FAERS.
 DrugBank required an academic license to access, and was downloadable after obtaining from the DrugBank website: https://go.drugbank.com/releases/latest. It was a relatively large XML file, with over 8GB of data after unzipping. It was also hard to extract data from, and required modifying a script found online to obtain data.
