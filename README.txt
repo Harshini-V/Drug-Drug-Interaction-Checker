@@ -1,4 +1,4 @@
-Group 23 Compiled README file. Each respective folder in CODE has its own README, relaying the exact same information here.
+Each respective folder in CODE has its own README, relaying the exact same information here.
 
 GENERAL DATA PROCESSING:
 We had 3 datasets we pulled from: DrugBank, DDInter, and FAERS.
